@@ -29,7 +29,7 @@ SafePic은 유연한 확장성과 유지보수성을 위해 **Front-Back 분리 
 
 | Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[📂 SafePic-Backend](https://github.com/safe-pic/safe=pic-be)** | 핵심 비즈니스 로직, AI 연동 모듈, 실시간 채팅 서버 및 관리자 API | Java 17, Spring Boot, JPA, PostgreSQL, Redis, Docker |
+| **[📂 SafePic-Backend](https://github.com/safe-pic/safe-pic-be)** | 핵심 비즈니스 로직, AI 연동 모듈, 실시간 채팅 서버 및 관리자 API | Java 17, Spring Boot, JPA, PostgreSQL, Redis, Docker |
 | **[📂 SafePic-Frontend](https://github.com/safe-pic/safe-pic-fe)** | 사용자 앱(RN) 및 서비스 운영을 위한 관리자 대시보드(React) | React Native, React, Redux, Styled Components |
 
 ---
